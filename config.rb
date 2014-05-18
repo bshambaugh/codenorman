@@ -4,11 +4,11 @@ require 'sass-globbing'
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
+http_path = "/codenorman/"
+http_images_path = "/codenorman/images"
 http_generated_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_fonts_path = "/codenorman/fonts"
+css_dir = "public/codenorman/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
